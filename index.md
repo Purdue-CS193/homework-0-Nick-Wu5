@@ -4,12 +4,12 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-#Nick's CS 193 Website
+# Nick's CS 193 Website
 
-##Current projects I'm working include:
--TSecure: automatic dorm lock
--TBGQueue: TRec pickup team registration and queue
--Wager: Pidgeon Games With Friends And Betting
+## Current projects I'm working include:
+- TSecure: automatic dorm lock
+- TBGQueue: TRec pickup team registration and queue
+- Wager: Pidgeon Games With Friends And Betting
 
 ### Markdown
 
